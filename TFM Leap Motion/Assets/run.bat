@@ -1,1 +1,0 @@
-"matlab.exe" -minimize -nosplash -nodesktop -r graphicsFromLeapMotionData('%1','%2','%3')
